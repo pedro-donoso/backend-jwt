@@ -64,4 +64,11 @@ password : "secret"
 
 11. aparecerán 2 tablas la primera con titulos y cuerpos de POST y la segunda con id y titulo de ALBUMS
 
+12. detener servidor, desde terminal
+
+```
+ctrl + c
+y
+```
+
 ![Captura](https://user-images.githubusercontent.com/68760595/130137991-195ab60f-f4ac-4f5a-a44b-5e626315284e.PNG)
