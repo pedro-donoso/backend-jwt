@@ -1,3 +1,5 @@
+![Captura](https://user-images.githubusercontent.com/68760595/130137837-40e5a67b-b288-4ca3-a5aa-f92d6ae250d2.PNG)
+
 Pasos:
 
 *en caso de problemas CORS, desde terminal: npm install cors
@@ -30,3 +32,4 @@ password : "secret"
 
 11 - aparecerán 2 tablas la primera con titulos y cuerpos de POST y la segunda con id y titulo de ALBUMS
 
+![Captura](https://user-images.githubusercontent.com/68760595/130137991-195ab60f-f4ac-4f5a-a44b-5e626315284e.PNG)
