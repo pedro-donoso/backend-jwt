@@ -10,18 +10,23 @@ Pasos:
 
 4 - levantar servidor node index.js
 
-5 - acceder al servidor local htttp://localhost:3000
+5 - descargar postman desktop https://www.postman.com/
 
-6 - descargar postman desktop https://www.postman.com/
+6 - en postman acceder al endpoint configurado http://localhost:3000/api/login
 
-7 - en postman acceder al endpoint configurado http://localhost:3000/api/login
+7 - opciones Postman método POST, en body opción raw y formato JSON
 
-8 - opciones Postman método POST, en body opción raw y formato JSON
-
-9 - escribir en Body { "email" : "Sincere@april.biz", "password" : "secret" }
+8 - escribir en Body { "email" : "Sincere@april.biz", "password" : "secret" }
 
 estos datos de usuarios los obtenemos de la carpeta db, archivo user.json la contraseña es: secret
 
 obtenemos un JWT
 
-10 - revisar información JWT https://jwt.io/
+9 - revisar información JWT https://jwt.io/
+
+10 - Una vez obtenido el JWT ingresar email y password en el servidor local htttp://localhost:3000/jwt-practico
+email : "Sincere@april.biz", 
+password : "secret"
+
+11 - aparecerán 2 tablas la primera con titulos y cuerpos de POST y la segunda con id y titulo de ALBUMS
+
