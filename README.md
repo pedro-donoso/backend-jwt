@@ -8,7 +8,7 @@ Pasos:
 
 3 - consultar version node node --v
 
-4 - levantar servidor node index.js
+4 - levantar servidor node index.js (dejar escuchando en el puerto)
 
 5 - descargar postman desktop https://www.postman.com/
 
