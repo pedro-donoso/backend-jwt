@@ -26,7 +26,13 @@ npm install node
 node --v
 ```
 
-4. levantar servidor node index.js (dejar escuchando en el puerto)
+4. levantar servidor 
+
+```
+node index.js
+```
+
+(dejar escuchando en el puerto)
 
 5. descargar postman desktop 
 
